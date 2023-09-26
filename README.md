@@ -6,12 +6,12 @@ It currently displays a Tkinter window that connects to a remote PostgreSQL serv
 The data is taken from the "Formula 1 Championships" dataset from kaggle.com
 
 # How to use
-Download the /vdash/ folder, edit the config.ini file with the password and run vdashboard.py
+Download the /vdash/ folder, edit the config.ini file with the password and run vdashboard.py  
 `python3 vdashboard.py`
 
 # Requirements
-The required libraries are psycopg2 and Pillow
-`pip install psycopg2`
+The required libraries are psycopg2 and Pillow  
+`pip install psycopg2`  
 `pip install pillow`
 
 What has been done so far:
