@@ -1,0 +1,5 @@
+# Database connection library
+psycopg2
+
+# Image processing library
+Pillow
